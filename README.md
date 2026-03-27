@@ -25,11 +25,17 @@ This project was created as part of the Digital Literacy course. It represents m
  Tasks Completed
 
 Task 1: Digital Literacy Infographic
+
 Task 2: Student Digital Portfolio
+
 Task 3: Coding & Collaboration Platforms
+
 Task 4: Email Etiquette & Social Media Guidelines
+
 Task 5: Cybercrime Awareness
-Digital Literacy Quiz Take the quiz here --> https://docs.google.com/forms/d/e/1FAIpQLSdLjqwId__Jv-rozZpIZw6yD5YRCUy7HTP7OW8jqpjcRR34OQ/viewform?usp=publish-editor
+
+Digital Literacy Quiz Take the quiz here --> https://docs.google.com/forms/d/e/1FAIpQLSd6t8IpYDI1T9XBWjxwc6xWX4aPwAkPB3MKmrxcTDyATpY9Tw/viewform?usp=publish-editor
+
 
 Repository Structure
 
